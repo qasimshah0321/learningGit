@@ -1,0 +1,15 @@
+C:\Users\Netsol\Documents\GitHub\learningGit\bin\Debug\net6.0\learningGit.exe
+C:\Users\Netsol\Documents\GitHub\learningGit\bin\Debug\net6.0\learningGit.deps.json
+C:\Users\Netsol\Documents\GitHub\learningGit\bin\Debug\net6.0\learningGit.runtimeconfig.json
+C:\Users\Netsol\Documents\GitHub\learningGit\bin\Debug\net6.0\learningGit.dll
+C:\Users\Netsol\Documents\GitHub\learningGit\bin\Debug\net6.0\learningGit.pdb
+C:\Users\Netsol\Documents\GitHub\learningGit\obj\Debug\net6.0\learningGit.csproj.AssemblyReference.cache
+C:\Users\Netsol\Documents\GitHub\learningGit\obj\Debug\net6.0\learningGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netsol\Documents\GitHub\learningGit\obj\Debug\net6.0\learningGit.AssemblyInfoInputs.cache
+C:\Users\Netsol\Documents\GitHub\learningGit\obj\Debug\net6.0\learningGit.AssemblyInfo.cs
+C:\Users\Netsol\Documents\GitHub\learningGit\obj\Debug\net6.0\learningGit.csproj.CoreCompileInputs.cache
+C:\Users\Netsol\Documents\GitHub\learningGit\obj\Debug\net6.0\learningGit.dll
+C:\Users\Netsol\Documents\GitHub\learningGit\obj\Debug\net6.0\refint\learningGit.dll
+C:\Users\Netsol\Documents\GitHub\learningGit\obj\Debug\net6.0\learningGit.pdb
+C:\Users\Netsol\Documents\GitHub\learningGit\obj\Debug\net6.0\learningGit.genruntimeconfig.cache
+C:\Users\Netsol\Documents\GitHub\learningGit\obj\Debug\net6.0\ref\learningGit.dll
